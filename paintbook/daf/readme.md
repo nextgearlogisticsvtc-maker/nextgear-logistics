@@ -16,4 +16,12 @@ Below you will find the official NextGear Logistics paintjob configurations avai
 
 ---
 
-*Select a brand & model left in the list to view its official specs and color codes*
+{% cards %}
+{% card title="DAF NGD" icon="truck" href="ngd.md" %}
+View official paintjob specs and color codes for the Next Generation DAF.
+{% endcard %}
+
+{% card title="DAF XD" icon="truck" href="xd.md" %}
+View official paintjob specs and color codes for the DAF XD.
+{% endcard %}
+{% endcards %}
