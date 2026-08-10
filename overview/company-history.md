@@ -7,5 +7,5 @@ Through the times, we've grown into a recognized and trusted name on TruckersMP,
 Joining NextGear means becoming part of a long-standing tradition of excellence, where your professionalism, teamwork, and dedication help shape the company's reputation.
 
 {% hint style="info" %}
-**Why it matters:** Knowing our history helps you understand our values, culture, and standards, and encourages pride in being part of a driver-focused community.
+**-> Why it matters: Knowing our history helps you understand our values, culture, standards and encourages pride in being part of a driver-focused community.
 {% endhint %}
