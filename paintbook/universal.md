@@ -1,22 +1,22 @@
-# [NextGear Logistics] — [Universal Paintjob]
+# NextGear Logistics — Universal Paintjob
 
-[Short description, e.g.: This paintjob is approved for daily drives and official NextGear Logistics operations.]
+This paintjob is approved for daily drives, deliveries, and official NextGear Logistics operations across all standard fleet trucks and trailers.
 
 ---
 
-## Paintjob: [Sade]
+## Paintjob: Sade
 
-> **Type:** [Base Game Free]  
-> **Applicable To:** [All Trucks & Universal Trailers]
+> **Type:** Base Game Free  
+> **Applicable To:** All Trucks & Universal Trailers
 
-![Showcase Image](../images/universal.png)
+![Universal Paintjob Showcase](../images/universal.png)
 
 ### Paint Specifications
 
 | Attribute | Details |
 | :--- | :--- |
-| **In-Game Name** | [Sade] |
-| **Required DLC** | [None] |
+| **In-Game Name** | Sade |
+| **Required DLC** | None |
 
 ### Color Palette
 
