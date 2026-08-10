@@ -1,4 +1,4 @@
-# NextGear Logistics — [truck brand & model]
+# NextGear Logistics — Volvo FH6
 
 This paintjob is approved for daily drives, deliveries, and official NextGear Logistics operations across all standard fleet trucks and trailers.
 
@@ -7,7 +7,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 ## Paintjob: [paintjob name]
 
 > **Type:** Holland Style DLC  
-> **Applicable To:** [Brand & Model]
+> **Applicable To:** Volvo FH6
 
 ![Universal Paintjob Showcase](../images/fh6.png)
 
