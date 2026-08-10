@@ -21,14 +21,14 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 ### Color Palette
 
 **HEX Codes**
-* **Color 1 (Primary - Top):** `#919191` *(Broken White)*
-* **Color 2 (Secondary - Bottom):** `#282828` *(Deep Charcoal)*
-* **Color 3 (Accent Line):** `#F37A00` *(NextGear Orange)*
+* **Color 1 :** `#919191` *(Broken White)*
+* **Color 2 :** `#282828` *(Deep Charcoal)*
+* **Color 3 :** `#F37A00` *(NextGear Orange)*
 
 **RGB Codes**
-* **Color 1 (Primary - Top):** `145, 145, 145` *(Broken White)*
-* **Color 2 (Secondary - Bottom):** `40, 40, 40` *(Deep Charcoal)*
-* **Color 3 (Accent Line):** `243, 122, 0` *(NextGear Orange)*
+* **Color 1 :** `145, 145, 145` *(Broken White)*
+* **Color 2 :** `40, 40, 40` *(Deep Charcoal)*
+* **Color 3 :** `243, 122, 0` *(NextGear Orange)*
 
 {% hint style="info" %}
 **Important:** Ensure the color slots in the workshop match the exact order listed above to maintain the official NextGear design.
