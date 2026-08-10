@@ -13,7 +13,8 @@
 
 ## Paintbook
 * [Paintbook Rules](paintbook/rules.md)
-* [Universal & Events](paintbook/universal-events.md)
+* [Universal & Events](paintbook/universal.md)
+* [Events](paintbook/events.md)
 * [DAF](paintbook/daf/readme.md)
   * [NGD](paintbook/daf/ngd.md)
   * [XD](paintbook/daf/xd.md)
