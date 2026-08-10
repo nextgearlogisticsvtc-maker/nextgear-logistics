@@ -14,6 +14,9 @@
 ## Paintbook
 * [Paintbook Rules](paintbook/rules.md)
 * [Universal](paintbook/universal.md)
+* [Scania](paintbook/scania/readme.md)
+  * [S/R](paintbook/scania/s-r.md)
+  * [8X4](paintbook/scania/8x4.md)
 * [DAF](paintbook/daf/readme.md)
   * [NGD](paintbook/daf/ngd.md)
   * [XD](paintbook/daf/xd.md)
@@ -26,9 +29,8 @@
   * [8X4](paintbook/volvo/8x4.md)
 * [MAN](paintbook/man/readme.md)
   * [TGX](paintbook/man/tgx.md)
-* [Scania](paintbook/scania/readme.md)
-  * [S/R](paintbook/scania/s-r.md)
-  * [8X4](paintbook/scania/8x4.md)
+* [Mercedes](paintbook/mercedes/readme.md)
+* [Iveco](paintbook/iveco/readme.md)
 
 ## Policies & Conduct
 * [Company Policies](policies/company-policies.md)
