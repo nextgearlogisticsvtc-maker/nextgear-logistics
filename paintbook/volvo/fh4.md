@@ -9,7 +9,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 > **Type:** Holland Style DLC  
 > **Applicable To:** [Brand & Model]
 
-![Universal Paintjob Showcase](../images/universal.png)
+![Universal Paintjob Showcase](../images/fh4.png)
 
 ### Paint Specifications
 
