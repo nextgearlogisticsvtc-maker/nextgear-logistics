@@ -9,6 +9,8 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 > **Type:** Holland Style DLC\
 > **Applicable To:** Volvo FH5
 
+![Universal Paintjob Showcase](../.gitbook/assets/universal.png)
+
 ### Paint Specifications
 
 | Attribute        | Details           |
