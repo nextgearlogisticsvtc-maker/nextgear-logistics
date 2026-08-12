@@ -29,7 +29,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 
 **RGB Codes**
 
-* **Color 1 :** `145, 145, 145` _(Broken White))_
+* **Color 1 :** `145, 145, 145` _(Broken White)_
 * **Color 2 :** `40, 40, 40` _(Deep Charcoal)_
 * **Color 3 :** `40, 40, 40` _(Deep Charcoal)_
 * **Color 4 :** `243, 122, 0` _(NextGear Orange)_
