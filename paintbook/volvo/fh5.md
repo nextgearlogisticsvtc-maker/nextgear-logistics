@@ -4,7 +4,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 
 ***
 
-## Paintjob: \[paintjob name]
+## Paintjob: Route Echo
 
 > **Type:** Holland Style DLC\
 > **Applicable To:** Volvo FH5
@@ -15,24 +15,24 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 
 | Attribute        | Details           |
 | ---------------- | ----------------- |
-| **In-Game Name** | \[paintjob name]  |
+| **In-Game Name** | Route Echo        |
 | **Required DLC** | Holland Style DLC |
 
 ### Color Palette
 
 **HEX Codes**
 
-* **Color 1 :** `#282828` _(Deep Charcoal)_
-* **Color 2 :** `#F37A00` _(NextGear Orange)_
-* **Color 3 :** `#919191` _(Broken White)_
+* **Color 1 :** `#919191` _(Broken White)_
 * **Color 2 :** `#282828` _(Deep Charcoal)_
+* **Color 3 :** `#F37A00` _(NextGear Orange)_
+* **Color 4 :** `#282828` _(Deep Charcoal)_
 
 **RGB Codes**
 
-* **Color 1 :** `40, 40, 40` _(Deep Charcoal)_
-* **Color 2 :** `243, 122, 0` _(NextGear Orange)_
-* **Color 3 :** `145, 145, 145` _(Broken White))_
+* **Color 1 :** `145, 145, 145` _(Broken White)_
 * **Color 2 :** `40, 40, 40` _(Deep Charcoal)_
+* **Color 3 :** `243, 122, 0` _(NextGear Orange)_
+* **Color 4 :** `40, 40, 40` _(Deep Charcoal)_
 
 {% hint style="info" %}
 **Important:** Ensure the color slots in the workshop match the exact order listed above to maintain the official NextGear design.
