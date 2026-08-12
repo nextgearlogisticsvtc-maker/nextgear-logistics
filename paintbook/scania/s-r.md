@@ -7,7 +7,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 ## Paintjob: Sequences
 
 > **Type:** Holland Style DLC\
-> **Applicable To:** Scania - S&R
+> **Applicable To:** Scania S&R
 
 ![S/R Paintjob Showcase](https://raw.githubusercontent.com/nextgearlogisticsvtc-maker/nextgear-logistics/refs/heads/main/images/S.png)
 
