@@ -15,7 +15,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 
 | Attribute        | Details           |
 | ---------------- | ----------------- |
-| **In-Game Name** | Venture Forth    |
+| **In-Game Name** | Venture Forth     |
 | **Required DLC** | Holland Style DLC |
 
 ### Color Palette
