@@ -35,6 +35,7 @@
   * [8X4](paintbook/volvo/8x4.md)
 * [MAN](paintbook/man/readme.md)
   * [TGX](paintbook/man/tgx.md)
+  * [TGX](paintbook/man/8x4.md)
 * [Mercedes](paintbook/mercedes/readme.md)
   * [Actros](paintbook/mercedes/actros.md)
 * [Iveco](paintbook/iveco/readme.md)
