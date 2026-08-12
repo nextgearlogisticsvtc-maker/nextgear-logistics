@@ -7,7 +7,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 ## Paintjob: Wind Cut
 
 > **Type:** Holland Style DLC\
-> **Applicable To:** DAF - XF
+> **Applicable To:** DAF XF
 
 ![XF Paintjob Showcase](https://raw.githubusercontent.com/nextgearlogisticsvtc-maker/nextgear-logistics/refs/heads/main/images/xf.png)
 
