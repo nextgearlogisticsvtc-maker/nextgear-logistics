@@ -4,10 +4,10 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 
 ***
 
-## Paintjob: \[paintjob name]
+## Paintjob: \Venture Forth
 
 > **Type:** Holland Style DLC\
-> **Applicable To:** \[Brand & Model]
+> **Applicable To:** \DAF - NGD
 
 ![NGD Paintjob Showcase](https://raw.githubusercontent.com/nextgearlogisticsvtc-maker/nextgear-logistics/refs/heads/main/images/ngd.png)
 
@@ -15,7 +15,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 
 | Attribute        | Details           |
 | ---------------- | ----------------- |
-| **In-Game Name** | \[paintjob name]  |
+| **In-Game Name** | \Venture Forth    |
 | **Required DLC** | Holland Style DLC |
 
 ### Color Palette
@@ -32,7 +32,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 * **Color 1 :** `40, 40, 40` _(Deep Charcoal)_
 * **Color 2 :** `243, 122, 0` _(NextGear Orange)_
 * **Color 3 :** `145, 145, 145` _(Broken White))_
-* **Color 2 :** `40, 40, 40` _(Deep Charcoal)_
+* **Color 4 :** `40, 40, 40` _(Deep Charcoal)_
 
 {% hint style="info" %}
 **Important:** Ensure the color slots in the workshop match the exact order listed above to maintain the official NextGear design.
