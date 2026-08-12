@@ -25,7 +25,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 * **Color 1 :** `#282828` _(Deep Charcoal)_
 * **Color 2 :** `#F37A00` _(NextGear Orange)_
 * **Color 3 :** `#919191` _(Broken White)_
-* **Color 2 :** `#282828` _(Deep Charcoal)_
+* **Color 4 :** `#282828` _(Deep Charcoal)_
 
 **RGB Codes**
 
