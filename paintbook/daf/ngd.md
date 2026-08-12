@@ -7,7 +7,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 ## Paintjob: Venture Forth
 
 > **Type:** Holland Style DLC\
-> **Applicable To:** DAF - NGD
+> **Applicable To:** DAF NGD
 
 ![NGD Paintjob Showcase](https://raw.githubusercontent.com/nextgearlogisticsvtc-maker/nextgear-logistics/refs/heads/main/images/ngd.png)
 
