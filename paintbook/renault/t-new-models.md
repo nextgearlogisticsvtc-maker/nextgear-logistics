@@ -9,6 +9,8 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 > **Type:** Holland Style DLC\
 > **Applicable To:** \[Brand & Model]
 
+![T (all models) Paintjob Showcase](https://raw.githubusercontent.com/nextgearlogisticsvtc-maker/nextgear-logistics/refs/heads/main/images/T.png)
+
 ### Paint Specifications
 
 | Attribute        | Details           |
