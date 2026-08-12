@@ -7,7 +7,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 ## Paintjob: \[paintjob name]
 
 > **Type:** Holland Style DLC\
-> **Applicable To:** \[Brand & Model]
+> **Applicable To:** Mercedes Actros
 
 ![Actros Paintjob Showcase](https://raw.githubusercontent.com/nextgearlogisticsvtc-maker/nextgear-logistics/refs/heads/main/images/actros.png)
 
