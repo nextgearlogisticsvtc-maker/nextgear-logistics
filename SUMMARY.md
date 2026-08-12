@@ -25,7 +25,7 @@
   * [8X4](paintbook/scania/8x4.md)
 * [DAF](paintbook/daf/readme.md)
   * [NGD](paintbook/daf/ngd.md)
-  * [XD](paintbook/daf/xd.md)
+  * [XD](paintbook/daf/xf.md)
 * [Renault](paintbook/renault/readme.md)
   * [T (New Models)](paintbook/renault/t-new-models.md)
 * [Volvo](paintbook/volvo/readme.md)
