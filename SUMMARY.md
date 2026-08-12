@@ -36,6 +36,6 @@
 * [MAN](paintbook/man/readme.md)
   * [TGX](paintbook/man/tgx.md)
 * [Mercedes](paintbook/mercedes/readme.md)
-  * [Actros](paintbook/man/actros.md)
+  * [Actros](paintbook/mercedes/actros.md)
 * [Iveco](paintbook/iveco/readme.md)
-  * [S-way](paintbook/man/s-way.md)
+  * [S-way](paintbook/iveco/s-way.md)
