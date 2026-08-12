@@ -10,7 +10,7 @@ NextGear Logistics convoys are organized, safe, and professional. Following thes
 * Attend pre-convoy briefings (voice or written) for smooth coordination.
 
 ### Speed & Spacing
-* Maximum convoy speed: 90 km/h (adjusted for routes/conditions).
+* Maximum speed: 90 km/h (adjusted for routes/conditions).
 * Maintain safe distance (50–100m spacing) from the truck ahead.
 * Avoid tailgating and sudden braking.
 * Use cruise control when possible for steady speeds.
