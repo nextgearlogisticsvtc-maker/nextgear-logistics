@@ -4,7 +4,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 
 ***
 
-## Paintjob: Smooth Flow1
+## Paintjob: Smooth Flow
 
 > **Type:** Holland Style DLC\
 > **Applicable To:** Iveco S-Way
