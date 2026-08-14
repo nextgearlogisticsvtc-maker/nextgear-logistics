@@ -1,7 +1,5 @@
 # Country Codes Reference
 
-Use the search button below or press **`Cmd + K` / `Ctrl + K`** to search for any country or country code.
-
 {% button action="search" icon="magnifying-glass" %}
 Search Country Codes
 {% endbutton %}
