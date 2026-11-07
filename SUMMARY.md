@@ -21,8 +21,6 @@
 ## Paintbook
 * [Paintbook Rules](paintbook/rules.md)
 * [Universal](paintbook/universal.md)
-* [Highway](paintbook/highway.md)
-* [Construction](paintbook/construction.md)
 * [Scania](paintbook/scania/readme.md)
   * [S/R](paintbook/scania/s-r.md)
   * [8X4](paintbook/scania/8x4.md)
