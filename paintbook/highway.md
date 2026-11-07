@@ -1,12 +1,12 @@
-# Universal
+# Highway
 
 This paintjob is approved for daily drives, deliveries, and official NextGear Logistics operations across all standard fleet trucks and trailers.
 
 ***
 
-## Paintjob: Sade
+## Paintjob: Highway
 
-> **Type:** Base Game Free\
+> **Type:** Modern Lines Paint
 > **Applicable To:** All Trucks & Universal Trailers
 
 ![Universal Paintjob Showcase](../.gitbook/assets/highway.png)
@@ -15,8 +15,8 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 
 | Attribute        | Details |
 | ---------------- | ------- |
-| **In-Game Name** | Sade    |
-| **Required DLC** | None    |
+| **In-Game Name** | Highway    |
+| **Required DLC** | Modern Lines Paint DLC    |
 
 ### Color Palette
 
@@ -25,12 +25,14 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 * **Color 1 :** `#919191` _(Broken White)_
 * **Color 2 :** `#282828` _(Deep Charcoal)_
 * **Color 3 :** `#F37A00` _(NextGear Orange)_
+* **Color 4 :** `#282828` _(Deep Charcoal)_
 
 **RGB Codes**
 
 * **Color 1 :** `145, 145, 145` _(Broken White)_
 * **Color 2 :** `40, 40, 40` _(Deep Charcoal)_
 * **Color 3 :** `243, 122, 0` _(NextGear Orange)_
+* **Color 4 :** `40, 40, 40` _(Deep Charcoal)_
 
 {% hint style="info" %}
 **Important:** Ensure the color slots in the workshop match the exact order listed above to maintain the official NextGear design.
