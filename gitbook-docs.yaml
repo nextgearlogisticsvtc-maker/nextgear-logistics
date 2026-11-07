@@ -6,5 +6,6 @@ site:
       key: nextgear-logistics-docs
       title: Documentation
       path: docs
+      default: true
       content:
         directory: ./docs
