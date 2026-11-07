@@ -9,7 +9,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 > **Type:** Modern Lines Paint
 > **Applicable To:** All Trucks & Universal Trailers
 
-![Universal Paintjob Showcase](../.gitbook/assets/highway.png)
+![Universal Paintjob Showcase](https://raw.githubusercontent.com/nextgearlogisticsvtc-maker/nextgear-logistics/refs/heads/main/images/highway.png)
 
 ### Paint Specifications
 
