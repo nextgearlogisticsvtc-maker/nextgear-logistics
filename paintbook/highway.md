@@ -9,7 +9,7 @@ This paintjob is approved for daily drives, deliveries, and official NextGear Lo
 > **Type:** Base Game Free\
 > **Applicable To:** All Trucks & Universal Trailers
 
-![Universal Paintjob Showcase](../.gitbook/assets/universal.png)
+![Universal Paintjob Showcase](../.gitbook/assets/highway.png)
 
 ### Paint Specifications
 
